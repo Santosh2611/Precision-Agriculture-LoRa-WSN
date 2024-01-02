@@ -29,4 +29,5 @@ The collected data can be used for monitoring environmental conditions, detectin
 - Integration with a web or mobile application for remote monitoring and control.
 - Add more sensors for comprehensive agricultural monitoring including soil moisture, light intensity, and air quality.
 
-## Video Demonstration: https://www.youtube.com/watch?v=deF0g87tDbU
+## Video Demonstration: 
+URL: https://www.youtube.com/watch?v=deF0g87tDbU
